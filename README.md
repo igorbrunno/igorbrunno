@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @igorbrunno
 - 🌱 I’m currently learning HTML, CSS and JS.
-- 📫 How to reach me: [Instagram](https://www.instagram.com/brunulls/)
+- [Instagram](https://www.instagram.com/brunulls/) 
+                       
 
 <!---
 igorbrunno/igorbrunno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
