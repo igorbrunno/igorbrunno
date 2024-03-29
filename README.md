@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @igorbrunno
-- 🌱 I’m currently learning Html, Css and JS.
+- 🌱 I’m currently learning HTML, CSS and JS.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/brunulls/)
 
 <!---
