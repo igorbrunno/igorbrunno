@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @igorbrunno
 - 🌱 I’m currently learning HTML, CSS and JS.
-- [Instagram](https://www.instagram.com/brunulls/) 
+- [Instagram](https://www.instagram.com/brunulls/)
+- [LinkedIn](https://www.linkedin.com/in/igor-bruno-farias-da-silva-9504ba226/)
                        
 
 <!---
